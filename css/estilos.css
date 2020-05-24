@@ -17,7 +17,7 @@ body
 
 #cabecera
 {
-    background: #33A; url("../imagenes/grande.jpeg") 20px 20px;
+    background: #3398aa; url("../imagenes/grande.jpeg") 20px 20px;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: rgb(255, 255, 255);
     font-weight: bold;
@@ -47,9 +47,8 @@ body
 }
 #post
 {
-    background:yellowgreen;
     padding: 1em;
-    background: yellowgreen;
+    background: #73aa33;
 }
 #footer
 {
