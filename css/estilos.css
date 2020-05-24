@@ -40,5 +40,12 @@ body
 }
 #post
 {
+    background:yellowgreen;
     padding: 1em;
+}
+#footer
+{
+    background: white;
+    color: black;
+    text-align: center;
 }
